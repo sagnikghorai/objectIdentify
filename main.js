@@ -2,7 +2,7 @@ img = "";
 status = "";
 
 function preload(){
-    img = loadImage('dogs_cat.jpg')
+    img = loadImage('dog_cat.jpg')
 }
 
 function setup() {
